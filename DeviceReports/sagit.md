@@ -25,7 +25,7 @@
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
 | Roughly Enough Items |✅(16.0.799) |
-| Distant Horizons | ❌(2.2.1-a, RAM不足游戏崩溃) |
+| Distant Horizons | ❌(2.3.0-b) |
 | Modern UI | ✅(3.11.1.9) |
 | Immersive Portals Continued |*️⃣(6.0.7, 无法渲染传送门) |
 
@@ -50,6 +50,7 @@
 | iterationT | Iris 1.8.8 | ✅(3.2.0, High) |
 | iterationT Next | Iris 1.8.8 | *️⃣(1.1.0, 阴影渲染错误) |
 | Nostalgia | Iris 1.8.8 | ✅(v5.1, all presets) |
+| Pegasus | Iris 1.8.8 | ✅(v0.2.1, all presets) |
 | UShader | Iris 1.8.8 | *️⃣(v2.2, 所有预设天空盒黑色) |
 | Rethinking Voxels | Iris 1.8.8 | ❌(r0.1-beta6a, 无法渲染游戏崩溃) |
 | RedHat | Iris 1.8.8 | ✅(v34.3, all presets) |
@@ -75,6 +76,10 @@
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
 | Revelation | Iris 1.8.8 | ❌(v1, 地面和建筑无法渲染) |
 | Solas | Iris 1.8.8 | ❌(v2.6, Iris报错无法打开) |
+
+# Mod Screenshot
+### Distant Horzions
+![Distant Horzions](/assets/Mod_screenshot/sagit/DistantHorzions-2.3.0-b.png)
 
 # Shaderpack Screenshot
 ### Beyond Belief Legacy v1.2.4
@@ -106,3 +111,5 @@
 
 # Notes
 Kappa v5.2存在天空盒发黑问题，更新至v5.3可以解决
+
+遥远的地平线(Distant Horzions)新版本 2.3.0-b，即便是启用 ANGLE 运行也无法渲染世界
