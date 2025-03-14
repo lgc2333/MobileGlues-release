@@ -25,7 +25,7 @@
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
 | Roughly Enough Items |✅(16.0.799) |
-| Distant Horizons | ✅(2.3.0-b) |
+| Distant Horizons | ✅(2.3.0-b, 需启用ANGLE) |
 | Modern UI | ✅(3.11.1.9) |
 | Immersive Portals Continued |*️⃣(6.0.7, 无法渲染传送门) |
 
@@ -50,6 +50,7 @@
 | iterationT | Iris 1.8.8 | ✅(3.2.0, High) |
 | iterationT Next | Iris 1.8.8 | ✅(1.1.0, all presets) |
 | Nostalgia | Iris 1.8.8 | ✅(v5.1, all presets) |
+| Pegasus | Iris 1.8.8 | ✅(v0.2.1, all presets) |
 | UShader | Iris 1.8.8 | *️⃣(v2.2, 所有预设天空盒黑色) |
 | Rethinking Voxels | Iris 1.8.8 | *️⃣(r0.1-beta6a, 阴影无法渲染) |
 | RedHat | Iris 1.8.8 | ✅(v34.3, all presets) |
@@ -103,6 +104,8 @@
 ![Chocapic13 HighPerformance Toaster](/assets/shaderpack_screenshot/marble/chocapic13_hpt.png)
 
 # Notes
-在第三方系统 CrDroid 11.x (Android 15)下测试，使用高通786新驱动测试，无ANGLE
+在第三方系统 CrDroid 11.x (Android 15) 下测试，使用高通786新驱动测试，无ANGLE
 
-Kappa v5.2有天空盒发黑问题，更新至v5.3可以解决
+Kappa v5.2 有天空盒发黑问题，更新至 v5.3 可以解决
+
+遥远的地平线(Distant Horzions)模组需要在 MobileGlues 里启用 ANGLE 才能运行
