@@ -1,4 +1,4 @@
-# OPPO Reno9 Pro+ (PGW110)
+# Redmi K60 Ultra(corot)
 
 ## Device Info
 
