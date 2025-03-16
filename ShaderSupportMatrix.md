@@ -37,7 +37,7 @@ Guidance on how to fill out the table can be found in the [Call to Action sectio
 |HUAWEI Mate Pad Air 2024(BKY-W10)|Kirin T90|Maleoon 910| Android 12 | N/A |1.1.0.1|1.21.4|Iris 1.8.8|*️⃣(仅渲染原版天空颜色，云层、水面、方块、实体、阴影均不渲染)|*️⃣(仅渲染原版天空颜色，云层、水面、方块、实体、阴影均不渲染)|*️⃣(仅渲染原版天空颜色，云层、水面、方块、实体、阴影均不渲染)|?|?|?|?|?|?|*️⃣(仅渲染原版天空颜色，云层、水面、方块、实体、阴影均不渲染)|?|[BKY-W10.md](./DeviceReports/BKY-W10.md) |
 | Redmi Turbo 3(peridot) | Snapdragon 8s Gen 3 (SM8635) | Adreno 735 | Android 15 | ANGLE| 1.1.0.2               | 1.20.1              |  Iris 1.7.5     | ✅(8.4,all presets) | ? | ? | *️⃣(v1.1,闪烁奇怪色块)| ✅(3.2.0) | ?| ✅(r5.4) | ✅(r5.4) |?|?|?| [peridot.md](./DeviceReports/peridot.md) |
 | Redmi K60 (23013RK75C) | Snapdragon 8+Gen 1 (SM8475)| Adreno 730| Android 15| N/A | 1.1.0.1| 1.21.1|Iris 1.8.8| ✅ （8.4.02.2）| ✅ | ✅ （9.1c）| ✅ （v1.1）| ✅ （3.2.0）|？|❌ |❌ |❌ |❌ |✅ | [RedmiK60-shaders-report.md](./DeviceReports/RedmiK60-shaders-report.md)|
-| Redmi K60 Ultra(corot) | MediaTek Dimensity 9200+ (MT6985)| Mali-G715-Immortails MC11 | Android 15| ANGLE | 1.1.0.2| 1.21.1 |Iris 1.8.8| ✅ （8.4,全预设，无ANGLE无水反）| ✅ | ✅ （9.1c,全预设）| *️⃣(v1.1,闪烁奇怪色块）| ✅ （3.2.0，全预设，无ANGLE无天空盒）|✅（容易卡到闪退）|？ |？ |❌（全预设） |❌ |✅（全预设，无ANGLE无水反 | [corot.md](./DeviceReports/corot.md)|
+| Redmi K60 Ultra(corot) | MediaTek Dimensity 9200+ (MT6985)| Mali-G715-Immortails MC11 | Android 15| ANGLE | 1.1.0.2| 1.21.1 |Iris 1.8.8| ✅ （8.4,全预设，无ANGLE无水反）| ✅ | ✅ （9.1c,全预设）| *️⃣（v1.1,闪烁奇怪色块）| ✅ （3.2.0，全预设，无ANGLE无天空盒）|✅（容易卡到闪退）|？ |？ |❌（全预设） | ? |✅（全预设，无ANGLE无水反） | [corot.md](./DeviceReports/corot.md)|
 
 
 <div>

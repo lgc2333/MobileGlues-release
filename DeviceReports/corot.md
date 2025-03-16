@@ -28,4 +28,9 @@
 | MakeUp-UltraFast | Iris 1.8.8 | ✅ （9.1c,全预设）|
 | Photon | Iris 1.8.8 | *️⃣ （v1.1,闪烁奇怪色块） |
 | iterationT | Iris 1.8.8 |  ✅ （3.2.0，全预设，无ANGLE无天空盒） |
-| SEUS PTGI HRR3 | Iris 1.8.8 | ✅<sup>1</sup> |
+| SEUS PTGI HRR3 | Iris 1.8.8 | ✅（容易卡到闪退） |
+| ComplementaryReimaged | Iris 1.8.8 | ? |
+| ComplementaryUnbound | Iris 1.8.8 | ? |
+| Derivative Main | Iris 1.8.8 | ❌（全预设） |
+| Lux | Iris 1.8.8 | ? |
+| BSL Classic | Iris 1.8.8 | ✅（全预设，无ANGLE无水反） |
