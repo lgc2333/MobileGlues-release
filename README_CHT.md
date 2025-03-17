@@ -7,7 +7,7 @@ MobileGlues
 > 
 >最新版本：
 >
-> **1.1.0.2**
+> **1.1.1**
 >
 > 請查看 [Release](https://github.com/Swung0x48/MobileGlues-release/releases)
 
@@ -19,7 +19,7 @@ MobileGlues
 >
 > 查看 [模組支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) 或 [光影支持列表](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md)，了解您的設備運行情況。
 
-**MobileGlues**，其名稱意為「(在)移動設備上，GL 使用 ES」，是一個基於 OpenGL ES 3.2 運行的 GL 實現，專為運行 Minecraft Java 版設計。
+**MobileGlues**，其名稱意為「(在)移動設備上，GL 使用 ES」，是一個基於 OpenGL ES 3.1 運行的 GL 實現，專為運行 Minecraft Java 版設計。
 
 功能特點
 ====

@@ -7,7 +7,7 @@ MobileGlues
 > 
 > 最新バージョン:
 > 
-> **1.1.0.2**
+> **1.1.1**
 > 
 > [リリース](https://github.com/Swung0x48/MobileGlues-release/releases)を参照してください。
 
@@ -19,7 +19,7 @@ MobileGlues
 > 
 > お使いのデバイスでの動作状況を確認するには、[Mod Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ModSupportMatrix.md) または [Shader Support Matrix](https://github.com/Swung0x48/MobileGlues-release/blob/main/ShaderSupportMatrix.md) をご参照ください。
 
-**MobileGlues**（「モバイルで、GLはESを使用する」の意）は、ホストの OpenGL ES 3.2 上で動作するGL実装で、Minecraft Java Edition の実行を目的としています。
+**MobileGlues**（「モバイルで、GLはESを使用する」の意）は、ホストの OpenGL ES 3.1 上で動作するGL実装で、Minecraft Java Edition の実行を目的としています。
 
 機能  
 ====
