@@ -24,6 +24,8 @@
 | Jade | ✅(15.9.3) |
 | Inventory HUD+ | ✅(3.4.26) |
 | Just Enough Items | ✅(19.21.0.247) |
+| Modernfix | ✅(5.20.2) |
+| Lithium | ✅(0.15.0) |
 | Roughly Enough Items |✅(16.0.799) |
 | Distant Horizons | ✅(2.3.0-b, 需启用ANGLE) |
 | Modern UI | ✅(3.11.1.9) |
@@ -49,13 +51,31 @@
 | Miniature Shader | Iris 1.8.8 | ✅(2.14.5, all presets) |
 | iterationT | Iris 1.8.8 | ✅(3.2.0, High) |
 | iterationT Next | Iris 1.8.8 | ✅(1.1.0, all presets) |
+| Vanilletix | Iris 1.8.8 | ✅(1.0.5B-Late, all presets) |
+| Bad Apple Shader | Iris 1.8.8 | ✅(3.0, all presets) |
+| Stracciatella Shaders | Iris 1.8.8 | ✅(v1.6.1, all presets) |
+| Simply Upscaled | Iris 1.8.8 | ✅(v0.3.6, all presets) |
+| DAV | Iris 1.8.8 | ✅(v1.2.5test, all presets) |
+| Reflective Vanilla | Iris 1.8.8 | ✅(1.0, all presets) |
+| Pixel Craft Shaders | Iris 1.8.8 | ✅(r1.2, all presets) |
+| Musk Rose Shaders | Iris 1.8.8 | ✅(v4.1, all presets) |
+| Monophonic | Iris 1.8.8 | ✅(1.1, all presets ) |
+| LITE Shaders | Iris 1.8.8 | ✅(v3.2, all presets) |
+| LBR Enhanced | Iris 1.8.8 | ✅(0.0.1, all presets) |
+| Insanity Shader | Iris 1.8.8 | ✅(v1.650, all presets) |
 | Nostalgia | Iris 1.8.8 | ✅(v5.1, all presets) |
 | Pegasus | Iris 1.8.8 | ✅(v0.2.1, all presets) |
+| Ebin Resurrected | Iris 1.8.8 | ✅(v1.5.5, all presets) |
 | UShader | Iris 1.8.8 | *️⃣(v2.2, 所有预设天空盒黑色) |
 | Rethinking Voxels | Iris 1.8.8 | *️⃣(r0.1-beta6a, 阴影无法渲染) |
+| Best Vanilla Shader | Iris 1.8.8 | ✅(1.8.0, all presets) |
+| Aurora's Shaders | Iris 1.8.8 | ✅(v1.8, all presets ) |
+| Aeon | Iris 1.8.8 | ✅(1.0, all presets) |
 | RedHat | Iris 1.8.8 | ✅(v34.3, all presets) |
 | Tea | Iris 1.8.8 | ✅(v2.0.0_Dev7, all presets) |
 | Lux | Iris 1.8.8 | ✅(v1.1_patch2, all presets) |
+| Curse Fog | Iris 1.8.8 | ✅(v1.0.2, all presets) |
+| Open4ES-Renewed | Iris 1.8.8 | ✅(v1.0.1, all presets) |
 | Simplicissimus | Iris 1.8.8 | ✅(v1.3a, all presets) |
 | Sildur's Vibrant Shaders | Iris 1.8.8 | ✅(v1.52, all presets) |
 | Sildur's Enhanced | Iris 1.8.8 | ✅(v1.171, Fancy) |
@@ -65,6 +85,7 @@
 | SEUS PTGI HRR | Iris 1.8.8 | ✅(2-3, all presets) |
 | SEUS Renewed | Iris 1.8.8 | ✅(v1.0.1, E2, all presets) |
 | SEUS DAZZLING | Iris 1.8.8 | *️⃣(v2.2.4, 光照阴影渲染错误) |
+| Super Duper Vanilla | Iris 1.8.8 | ✅(1.3.7, all presets) |
 | Continuum | Iris 1.8.8 | ✅(1.3, 2.0.5, all presets) |
 | OPAL | Iris 1.8.8 | ✅(v1.1.1, all presets) |
 | Vanilla Plus | Iris 1.8.8 | ✅(v3.3, all presets) |
@@ -75,6 +96,14 @@
 | KappaPT | Iris 1.8.8 | ❌(P15, 画面黑屏) |
 | Revelation | Iris 1.8.8 | ❌(v1, 地面和建筑无法渲染) |
 | Solas | Iris 1.8.8 | ❌(v2.6, Iris报错无法打开) |
+| What42's Shader Base | Iris 1.8.8 | ❌(b1.13.2, 无法渲染地形) |
+| Snow Default | Iris 1.8.8 | ❌(Alpha1.2, 无法渲染) |
+| Glimmer | Iris 1.8.8 | ❌(v1.3-hotfix, 天空盒无法渲染) |
+| Escheridia | Iris 1.8.8 | ❌(v1.2.0, 无法渲染) |
+| Color Splash Shaders | Iris 1.8.8  | ❌(v1.0.0, 渲染错误) |
+| Voyager Shader | Iris 1.8.8 | ❌(2.0.8, 无法渲染) |
+| daybreak | Iris 1.8.8 | ❌(0.2, 云渲染错误光影配置文件丢失) |
+| Simple Shader One | Iris 1.8.8 | ❌(v1, 光照异常) |
 
 # Mod Screenshot
 ### Immersive Portals Continued
@@ -102,6 +131,21 @@
 ![Beyond Belief Legacy](/assets/shaderpack_screenshot/marble/beyondbelieflegacy_v1.2.4.png)
 ### Chocapic13 HighPerformance Toaster
 ![Chocapic13 HighPerformance Toaster](/assets/shaderpack_screenshot/marble/chocapic13_hpt.png)
+### Color Splash Shaders v1.0.0  
+![Color Splash Shaders](/assets/shaderpack_screenshot/marble/ColorSplashShaders.png)
+### daybreak 0.2  
+![daybreak](/assets/shaderpack_screenshot/marble/daybreak.png)
+![daybreak](/assets/shaderpack_screenshot/marble/daybreak2.png)
+### Escheridia v1.2.0
+![Escheridia](/assets/shaderpack_screenshot/marble/Escheridia.png)
+### Glimmer v1.3-hotfix
+![Glimmer](/assets/shaderpack_screenshot/marble/Glimmer.png)
+### Simple Shader One v1
+![Simple Shader One](/assets/shaderpack_screenshot/marble/SimpleShaderOne.png)
+### Voyager Shader 2.0.8
+![Simple Shader One](/assets/shaderpack_screenshot/marble/Voyagershader.png)
+### What42's Shader Base b1.13.2
+![What42's Shader Base](/assets/shaderpack_screenshot/marble/What42's-Shader-Base.png)
 
 # Notes
 在第三方系统 CrDroid 11.x (Android 15) 下测试，使用高通786新驱动测试，无ANGLE
