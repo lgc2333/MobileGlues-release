@@ -1,12 +1,9 @@
 name: Format docs on PR with Prettier
 
 on:
-  pull_request:
+  # https://stackoverflow.com/a/58740879
+  pull_request_target:
     branches: [main]
-
-permissions:
-  contents: write
-  pull-requests: write
 
 jobs:
   format:
