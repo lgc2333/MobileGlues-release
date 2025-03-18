@@ -33,7 +33,7 @@ And with the following additional mods:
 
 ### Fabric 0.16.10
 
-Modpack: [FO 6.3.2](https://mcmod.cn/modpack/756.html)
+Modpack: [FO 6.3.2](https://mcmod.cn/modpack/248.html)
 
 Everything works fine excluding the following shaders down below.
 
