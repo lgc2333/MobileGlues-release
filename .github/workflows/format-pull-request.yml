@@ -1,0 +1,40 @@
+name: Format docs on PR with Prettier
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+          submodules: 'recursive'
+
+      - name: Checkout to PR branch
+        run: git checkout ${{ github.head_ref }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm i -g prettier
+
+      - name: Format code with Prettier
+        run: npx prettier -cw .
+
+      - name: Commit and push changes
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "style: format code with prettier" && git push)
