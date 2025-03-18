@@ -12,18 +12,18 @@
 
 ## Mod compatibility
 
-|**Mod**|**Status**|
-|---|---|
-| Sodium | ✅(0.6.9) |
-| Iris | ✅(1.8.8) |
-| Xaero's Minimap | ✅(25.1.0) |
+| **Mod**           | **Status** |
+| ----------------- | ---------- |
+| Sodium            | ✅(0.6.9)  |
+| Iris              | ✅(1.8.8)  |
+| Xaero's Minimap   | ✅(25.1.0) |
 | Xaero's World Map | ✅(1.39.4) |
 
 ## Shaderpack compatibility
 
-|**Shaderpack** | **ShaderLoader** | **Status** 
-|---|---|----|
-| BSL | Iris 1.7.2 | ✅(8.4.02.1, all presets) |
+| **Shaderpack** | **ShaderLoader** | **Status**                |
+| -------------- | ---------------- | ------------------------- |
+| BSL            | Iris 1.7.2       | ✅(8.4.02.1, all presets) |
 
 ## Notes
 

@@ -1,54 +1,48 @@
+<!-- markdownlint-disable MD033 MD036 -->
+
 # HONOR ViewPad 7 Pro (BRT-W09)
 
-
 ## Device Info
-
 
 - **SoC**: MediaTek Kompanio 1300T
 - **GPU**: Mali G77 MC9
 - **OS**: Android 12
 
-
 ## MobileGlues version tested
 
 1.1.0.1
 
-
 ## Mod compatibility
 
-
-|**Mod**|**Status**|
-|---|---|
-| Sodium | ✅(0.6.10) |
-| Iris | ✅(1.8.8) |
-| Xaero's Minimap | ✅(25.1.0) |
-| Xaero's World Map | ✅(1.39.4) |
-| ModernUI | *️⃣(3.11.1.11) |
-
+| **Mod**           | **Status**     |
+| ----------------- | -------------- |
+| Sodium            | ✅(0.6.10)     |
+| Iris              | ✅(1.8.8)      |
+| Xaero's Minimap   | ✅(25.1.0)     |
+| Xaero's World Map | ✅(1.39.4)     |
+| ModernUI          | \*️⃣(3.11.1.11) |
 
 ## Shaderpack compatibility
 
-
-|**Shaderpack** | **ShaderLoader** | **Status** |
-|---|---|----|
-| BSL | Iris | *️⃣(8.4.02.2, low)(~20fps) |
-| BSLClassic | Iris | ✅(8.4.02.2, Low)(~30fps) |
-| Lux | Iris | ✅(v1.1, Low)(10fps) |
-| Photon | Iris | *️⃣(v1.1, High)(bellow 10fps)(Render error)(unplayable) |
-| Chocapic13 V9 | Iris | ❎(failed to load) |
-| Chocapic13 HighPerformance | Iris | ❎(always white screen) |
-| RedHat | Iris | *️⃣(v34.3, Low)(10~14fps)(Render issue) |
-| MakeUp-UltraFast | Iris | ✅(9.1c)(bellow 20fps,Low profile) |
-| Complementary Reimagined | Iris | ❎(r5.4)(can not load)(with log) |
-| Complementary Unbound | Iris | ❎(r5.4)(can not load)(with log) |
-| Kappa | Iris | *️⃣(v5.3)(bellow 10fps)(Render error)(unplayable) |
-| PotatoShaders | Iris | *️⃣(v1.0d)(18~30fps)(Render issue) |
-| Tea | Iris | *️⃣(v2.0.0-dev7)(semi-solid 30fps)(Render issue) |
-
+| **Shaderpack**             | **ShaderLoader** | **Status**                                              |
+| -------------------------- | ---------------- | ------------------------------------------------------- |
+| BSL                        | Iris             | \*️⃣(8.4.02.2, low)(~20fps)                              |
+| BSLClassic                 | Iris             | ✅(8.4.02.2, Low)(~30fps)                               |
+| Lux                        | Iris             | ✅(v1.1, Low)(10fps)                                    |
+| Photon                     | Iris             | \*️⃣(v1.1, High)(bellow 10fps)(Render error)(unplayable) |
+| Chocapic13 V9              | Iris             | ❎(failed to load)                                      |
+| Chocapic13 HighPerformance | Iris             | ❎(always white screen)                                 |
+| RedHat                     | Iris             | \*️⃣(v34.3, Low)(10~14fps)(Render issue)                 |
+| MakeUp-UltraFast           | Iris             | ✅(9.1c)(bellow 20fps,Low profile)                      |
+| Complementary Reimagined   | Iris             | ❎(r5.4)(can not load)(with log)                        |
+| Complementary Unbound      | Iris             | ❎(r5.4)(can not load)(with log)                        |
+| Kappa                      | Iris             | \*️⃣(v5.3)(bellow 10fps)(Render error)(unplayable)       |
+| PotatoShaders              | Iris             | \*️⃣(v1.0d)(18~30fps)(Render issue)                      |
+| Tea                        | Iris             | \*️⃣(v2.0.0-dev7)(semi-solid 30fps)(Render issue)        |
 
 ## Notes
 
-### ModernUI:
+### ModernUI
 
 1. Works fine but have a major performance <!--Genshin--> impact.
 2. Can't load a lot of fonts which causes log spam.
@@ -69,7 +63,7 @@ Shadow error
 
 ![Photon](../assets/shaderpack_screenshot/BRT-W09/Photon.jpg)
 
-*Are U playing a Sci-fi game?*
+_Are U playing a Sci-fi game?_
 
 ### RedHat
 
@@ -81,11 +75,9 @@ Shadow error
 
    ![RedHat2](../assets/shaderpack_screenshot/BRT-W09/RedHat2.jpg)
 
-   *but it deserves her name:"tinted glass"*
+   _but it deserves her name:"tinted glass"_
 
-3.
-
-![RedHat3](../assets/shaderpack_screenshot/BRT-W09/RedHat3.jpg)
+3. ![RedHat3](../assets/shaderpack_screenshot/BRT-W09/RedHat3.jpg)
 
 4. RedHat Enterprise Linux
 
@@ -100,19 +92,17 @@ deferred1.vsh: deferred1.vsh: 0:2: P0003: Extension 'GL_NV_shader_noperspective_
 
 ![Kappa2](../assets/shaderpack_screenshot/BRT-W09/Kappa2.jpg)
 
-*Sir, I'm afraid you have limited eyesight.*
+_Sir, I'm afraid you have limited eyesight._
 
 ![Kappa](../assets/shaderpack_screenshot/BRT-W09/Kappa.jpg)
 
-*MC Projekt Red*
+_MC Projekt Red_
 
 ### PotatoShader
 
 1. ![PotatoShader](../assets/shaderpack_screenshot/BRT-W09/PotatoShader.jpg)
-
-​	*胜ち取りたいものもない*
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=513363028&auto=1&height=66"></iframe>
+​ _胜ち取りたいものもない_
+   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=513363028&auto=1&height=66"></iframe>
 
 2. random reflection <!--NVIDIA Reflex-->
 
@@ -127,6 +117,6 @@ deferred1.vsh: deferred1.vsh: 0:2: P0003: Extension 'GL_NV_shader_noperspective_
 
 ### Tea
 
-*It supposed to be a vanilla-like shader plus extra tweaks*
+_It supposed to be a vanilla-like shader plus extra tweaks_
 
 ![Tea](../assets/shaderpack_screenshot/BRT-W09/Tea.jpg)

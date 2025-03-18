@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # Xiaomi Redmi K30 Pro Zoom Editon (lmipro)
 
 ## Device Info
@@ -12,25 +14,25 @@
 
 ## Mod compatibility
 
-|**Mod**|**Status**|
-|---|---|
-| AppleSkin | ✅(3.0.6) |
-| Iris | *️⃣(1.8.1) |
-| Jade | ✅(16.0.4) |
-| Not Enouth Animations | ✅(1.9.2) |
-| Roughly Enough Items | ✅(17.0.794) |
-| Skin Layers 3D | ✅(1.7.4) |
-| Sodium | ✅(0.6.5) |
-| Sodium Extra | ✅(0.6.0) |
-| Xaero's Minimap | ✅(25.1.0) |
-| Xaero's World Map | ✅(1.39.4) |
-| Zoomify | ✅(2.14.2) |
+| **Mod**               | **Status**   |
+| --------------------- | ------------ |
+| AppleSkin             | ✅(3.0.6)    |
+| Iris                  | \*️⃣(1.8.1)   |
+| Jade                  | ✅(16.0.4)   |
+| Not Enouth Animations | ✅(1.9.2)    |
+| Roughly Enough Items  | ✅(17.0.794) |
+| Skin Layers 3D        | ✅(1.7.4)    |
+| Sodium                | ✅(0.6.5)    |
+| Sodium Extra          | ✅(0.6.0)    |
+| Xaero's Minimap       | ✅(25.1.0)   |
+| Xaero's World Map     | ✅(1.39.4)   |
+| Zoomify               | ✅(2.14.2)   |
 
 ## Shaderpack compatibility
 
-|**Shaderpack** | **ShaderLoader** | **Status** 
-|---|---|----|
-| MakeUp-UltraFast | Iris 1.7.2 | ✅(9.1c, all presets) |
+| **Shaderpack**   | **ShaderLoader** | **Status**            |
+| ---------------- | ---------------- | --------------------- |
+| MakeUp-UltraFast | Iris 1.7.2       | ✅(9.1c, all presets) |
 
 ## Notes
 
