@@ -30,7 +30,7 @@ jobs:
       - name: Check diff
         id: check-diff
         run: |
-          git diff --quiet --exit-code
+          git diff --quiet --exit-code || true
           if [ $? -eq 1 ]; then
             echo "has_diff=true" >> $GITHUB_OUTPUT
           else
