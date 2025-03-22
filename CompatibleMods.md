@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 
 # Compatible Mods
+
 - Sodium (Fabric) / Embeddium (NeoForge)
 - Iris / OptiFine <sup>1</sup>
 - Indium
