@@ -25,3 +25,5 @@ jobs:
 
       - uses: pre-commit-ci/lite-action@v1.1.0
         if: always()
+        with:
+          msg: 'style: :rotating_light: auto fix [skip ci]'
